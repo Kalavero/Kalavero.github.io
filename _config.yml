@@ -15,10 +15,10 @@ github: Kalavero
 googleplus: AndreKalavero
 facebook: andre.kalavero
 linkedin: andrekalavero/en
-bio: "Brazilian developer. Passionate about Technology, music, parkour and poker.
-      I am a beckend developer and have tried many languages and frameworks since I first started in 2010.
-      Sometimes I venture myself in working with frontend mostly using bootstrap.
-      I am a self learner and enjoy learn any skill I can."
+bio: "I am a Brazilian developer. Passionate about technology, music, parkour and poker.
+      As a beckend developer I have tried many languages and frameworks since I first started programming in 2010.
+      Lately I've been working with Ruby on Rails alongside with Graphql and Vue.js.
+      I am a self learner and enjoy learning any skill I can."
 
 # Skills
 #
@@ -39,7 +39,9 @@ front-end:
     level: 3
   - name: JavaScript
     level: 3
-  - name: Bootstrap
+  - name: Vue.js
+    level: 3
+  - name: React
     level: 3
 
 back-end:
@@ -47,32 +49,14 @@ back-end:
     level: 4
   - name: Python
     level: 4
-  - name: C
-    level: 4
   - name: C++
     level: 3
-  - name: PHP
-    level: 2
-  - name: Java
-    level: 2
-  - name: SQL
-    level: 2
-  - name: Lua
-    level: 1
-
-mobile:
-  - name: Android
-    level: 2
-  - name: IOS
-    level: 2
+  - name: C#
+    level: 3
 
 db:
-  - name: MySQL
-    level: 3
   - name: PostgreSQL
     level: 3
-  - name: MongoDB
-    level: 2
 
 devops:
   - name: Docker
@@ -80,26 +64,24 @@ devops:
   - name: Vagrant
     level: 3
   - name: Git
-    level: 3
+    level: 4
   - name: Continuous Integration
-    level: 3
+    level: 4
   - name: Continuous Delivery
-    level: 3
+    level: 4
 
 methodologies:
-  - name: Agile Methodologies
-    level: 4
   - name: Scrum
-    level: 3
-  - name: RUP
-    level: 2
+    level: 4
+  - name: Kanban
+    level: 4
 
 others:
-  - name: Django
-    level: 3
   - name: Ruby on Rails
-    level: 3
+    level: 4
   - name: REST
+    level: 4
+  - name: Graphql
     level: 3
 
 # Build settings
