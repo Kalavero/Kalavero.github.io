@@ -12,13 +12,13 @@ gravatar: 3a9860b7d5c0371d9bb896d4101b7a30
 email: andrelucas.verissimo@yahoo.com
 twitter: AndreKalavero
 github: Kalavero
-googleplus: AndreKalavero
-facebook: andre.kalavero
 linkedin: andrekalavero/en
-bio: "I am a Brazilian developer. Passionate about technology, music, parkour and poker.
-      As a beckend developer I have tried many languages and frameworks since I first started programming in 2010.
-      Lately I've been working with Ruby on Rails alongside with Graphql and Vue.js.
-      I am a self learner and enjoy learning any skill I can."
+bio: "I am a Brazilian developer and I am very enthusiastic about technology.
+      As a backend developer I have tried many languages and frameworks since I
+      first started programming in 2010. Lately I've been mostly working with Ruby on Rails,
+      but I have also done some things with Elixir at my current job.
+      I am a self learner and enjoy learning any skill I can,
+      most recently I'm learning angular and android to help my team deliver solutions faster."
 
 # Skills
 #
@@ -39,36 +39,34 @@ front-end:
     level: 3
   - name: JavaScript
     level: 3
-  - name: Vue.js
-    level: 3
-  - name: React
+  - name: Angular
     level: 3
 
 back-end:
   - name: Ruby
     level: 4
+  - name: Ruby on Rails
+    level: 4
   - name: Python
     level: 4
-  - name: C++
-    level: 3
-  - name: C#
-    level: 3
+  - name: Kotlin
+    level: 2
+  - name: Elixir
+    level: 2
 
 db:
   - name: PostgreSQL
+    level: 3
+  - name: MySQL
     level: 3
 
 devops:
   - name: Docker
     level: 3
-  - name: Vagrant
-    level: 3
-  - name: Git
-    level: 4
   - name: Continuous Integration
-    level: 4
+    level: 3
   - name: Continuous Delivery
-    level: 4
+    level: 3
 
 methodologies:
   - name: Scrum
@@ -77,12 +75,8 @@ methodologies:
     level: 4
 
 others:
-  - name: Ruby on Rails
+  - name: Git
     level: 4
-  - name: REST
-    level: 4
-  - name: Graphql
-    level: 3
 
 # Build settings
 
